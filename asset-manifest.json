@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/megb1t/megStore/static/css/main.54109a4c.css",
+    "main.js": "/megb1t/megStore/static/js/main.07d14e00.js",
+    "static/js/453.afcb7c3a.chunk.js": "/megb1t/megStore/static/js/453.afcb7c3a.chunk.js",
+    "static/media/hp.jpg": "/megb1t/megStore/static/media/hp.acfc938c0e44e29e8337.jpg",
+    "index.html": "/megb1t/megStore/index.html",
+    "main.54109a4c.css.map": "/megb1t/megStore/static/css/main.54109a4c.css.map",
+    "main.07d14e00.js.map": "/megb1t/megStore/static/js/main.07d14e00.js.map",
+    "453.afcb7c3a.chunk.js.map": "/megb1t/megStore/static/js/453.afcb7c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54109a4c.css",
+    "static/js/main.07d14e00.js"
+  ]
+}
