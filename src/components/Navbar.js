@@ -53,7 +53,7 @@ function Navbar() {
               placeholder="Search a game"
             />
             <button
-              className="border md:text-base p-1.5 rounded text-xs bg-blue-300 text-"
+              className="border md:text-base p-1.5 rounded text-xs bg-blue-300 hover:bg-blue-400 focus:ring-4 focus:outline-none focus:ring-blue-300 "
               type="submit"
             >
               Search

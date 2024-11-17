@@ -4,7 +4,7 @@ import Support from "./pages/support";
 import Cart from "./pages/cart";
 import Discover from "./pages/discover";
 import Home from "./pages/home";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (

@@ -35,4 +35,22 @@ export const gameData = [
     edditon: "Special Eddition",
     image: "./images/fc5.png",
   },
+  {
+    name: "Forza Horizon 5",
+    price: "Rs. 4728",
+    edditon: "Special Eddition",
+    image: "./images/fh5.png",
+  },
+  {
+    name: "Track Mania",
+    price: "Free",
+    edditon: "Standard Eddition",
+    image: "./images/tm.png",
+  },
+  {
+    name: "Far Cry 3",
+    price: "Rs. 1649",
+    edditon: "Standard Eddition",
+    image: "./images/fc3.png",
+  },
 ];
